@@ -1,0 +1,10 @@
+.peoples{
+   text-align: center;
+}
+button{
+   border: none;
+   display: block;
+   margin: 20px auto 0 auto;
+   width: 134px;
+   height: 33px;
+}
